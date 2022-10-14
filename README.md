@@ -15,13 +15,13 @@ Stay Tunned For More Updates & Versions
 
 Note : If You See Any Diffrent Or New Problem/Errors Choice Another Site List, Run With Another Site list
 
-(VirusTotal)[https://virustotal.com/gui/file/6a65323906d5b92d136a4d990b8e9b599f5a0c84d520ca84b910433f764c9106]
+[VirusTotal](https://virustotal.com/gui/file/6a65323906d5b92d136a4d990b8e9b599f5a0c84d520ca84b910433f764c9106)
 
 [Download](https://anonfiles.com/73A4x2C7yd/shell-scanner_rar)
 
 If you find any bugs or problems contact me
 
-(Via Telegram)[https://t.me/uncodeboss]
-(Telegram Channel)[https://t.me/codeb0ss]
+[Via Telegram](https://t.me/uncodeboss)
+[Telegram Channel](https://t.me/codeb0ss)
 
-(Via Email)[mailto:uncodeboss@gmail.com]
+[Via Email](mailto:uncodeboss@gmail.com)
